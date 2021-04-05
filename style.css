@@ -1,0 +1,29 @@
+.user-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+}
+
+.user-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.user-info img{
+    width: 200px;
+    border-radius:50%;
+}
+.button{
+    padding: 10px 25px;
+    border-radius: 5px;
+    background-color: darkgoldenrod;
+    color: white;
+    border: 2px solid darkgoldenrod;
+}
+
+.email{
+    margin-bottom: 18px;
+}
